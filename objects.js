@@ -1,2 +1,1 @@
-// var playlist = { artistName, songTitle };
-var playList = {};
+var playlist = { artistName, songTitle };
